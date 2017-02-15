@@ -1,0 +1,84 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# Site
+title: 我本楚狂人，凤歌笑孔丘。
+subtitle: nathena 's blog
+description: 许是今生缘未了，还从梦里记明眸 —— nathena 's blog
+keywords: 我当是谁在一旁听着，原来是你。我随口吟着，你跟着哭泣什么。昨夜把我阻隔在门外，今夜又来绞缠什么。是谁在偷听我浅浅的哭泣，落下一地的心碎。而我的心随着花飞花谢，模糊了一次又一次。
+author: nathena
+avatar: /res/avatar.png  # the avatar image in the sidebar
+favicon: /res/favicon.ico # the favicon
+language: zh-CN
+timezone: Asia/Shanghai
+
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+url: /
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+## ....
+
+
+disqus_shortname: your_disqus_shortname
+# Extensions
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+theme: material-flow
+
+# if your search is enable && search service is 'hexo'
+search:
+  path: search.xml
+  field: post
+
+# Generator json content
+jsonContent:
+  meta: false
+  keywords: false
+  pages:
+    title: true
+    slug: false
+    date: false
+    updated: false
+    comments: false
+    path: false
+    link: false
+    permalink: true
+    excerpt: false
+    keywords: false
+    text: true
+    raw: false
+    content: false
+  posts:
+    title: true
+    slug: false
+    date: false
+    updated: false
+    comments: false
+    path: false
+    link: false
+    permalink: true
+    excerpt: false
+    keywords: false
+    text: true
+    raw: false
+    content: false
+    categories: false
+    tags: false
+
+# auto prefixer
+autoprefixer:
+  exclude:
+    - '*.min.css'
+  browsers:
+    - 'last 2 versions'
+
+# rss
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content: 
