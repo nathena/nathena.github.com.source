@@ -3,6 +3,7 @@ layout: post
 title: gcc参数
 tags:  [linux,c,c++,gcc]
 categories: [linux_c_cpp]
+date: 2016-03-25
 ---
 
 ## 写在前面的话
