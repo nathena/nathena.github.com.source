@@ -1,8 +1,8 @@
 ---
 title: life_cycle
 date: 2017-02-15 17:46:22
-tags: [zend extension]
-categories：[php]
+tags: [php,zend extension]
+categories: [php]
 ---
 
 ## 开始和结束
