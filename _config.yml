@@ -4,7 +4,7 @@
 
 # Site
 title: 我本楚狂人，凤歌笑孔丘。
-subtitle: nathena 's blog
+subtitle: nathena
 description: 许是今生缘未了，还从梦里记明眸 —— nathena 's blog
 keywords: 
  - 我当是谁在一旁听着，原来是你。我随口吟着，你跟着哭泣什么。昨夜把我阻隔在门外，今夜又来绞缠什么。是谁在偷听我浅浅的哭泣，落下一地的心碎。而我的心随着花飞花谢，模糊了一次又一次。
@@ -22,8 +22,13 @@ permalink: :year/:month/:day/:title/
 permalink_defaults:
 ## ....
 
+# duoshuo设置
+duoshuo_shortname: nathena
 
-disqus_shortname: your_disqus_shortname
+# 百度统计设置
+baidu_analysis: b2be7c905d13cdaac406e0d6317df3e1
+
+#disqus_shortname: your_disqus_shortname
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
