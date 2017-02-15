@@ -26,7 +26,7 @@ disqus_shortname: your_disqus_shortname
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: material-flow
+theme: hexo-theme-material-flow
 
 # if your search is enable && search service is 'hexo'
 search:
