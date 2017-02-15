@@ -3,6 +3,7 @@ layout: post
 title: 为什么不使用tdd编程
 ags:  [tdd]
 categories: [软件工程]
+date: 2016-03-26
 ---
 
 ## 不使用的理由

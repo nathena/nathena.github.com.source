@@ -4,6 +4,7 @@ title: 简说僵尸进程、守护进程与托管进程
 author: nathena
 tags:  [linux,c,c++]
 categories: [linux_c_cpp]
+date: 2016-04-08
 ---
 
 ## 托管进程

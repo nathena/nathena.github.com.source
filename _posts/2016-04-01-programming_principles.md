@@ -3,6 +3,7 @@ layout: post
 title: 程序设计原则
 categories: [杂谈]
 tag: [编程思想]
+date: 2016-05-01
 ---
 
 ## 程序设计法则

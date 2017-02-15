@@ -4,6 +4,7 @@ title: c标准库
 author: nathena
 tags:  [linux,c,c++]
 categories: [linux_c_cpp]
+date: 2016-04-05
 ---
 
 

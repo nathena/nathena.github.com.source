@@ -2,6 +2,7 @@
 layout: post
 title: javascript es4 es5 es6
 categories: [javaScript]
+date: 2016-03-30
 ---
 
 

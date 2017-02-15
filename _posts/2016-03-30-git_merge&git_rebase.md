@@ -3,6 +3,7 @@ layout: post
 title: 校招git工具培训命令纲要
 categories: [软件工程]
 tags: [git]
+date: 2016-03-30
 ---
 
 ## 前言
