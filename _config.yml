@@ -24,9 +24,16 @@ permalink_defaults:
 
 # duoshuo设置
 duoshuo_shortname: nathena
-
 # 百度统计设置
 baidu_analysis: b2be7c905d13cdaac406e0d6317df3e1
+# use url, not username
+social:
+- slug: github
+  url: https://github.com/nathena
+- slug: twitter
+  url: https://twitter.com/nathena
+- slug: rss
+  url: /atom.xml
 
 #disqus_shortname: your_disqus_shortname
 # Extensions
